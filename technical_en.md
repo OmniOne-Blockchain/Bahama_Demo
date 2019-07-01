@@ -17,7 +17,7 @@ While being based on the DID specifications developed by W3C, the OmniOne's DID 
 
 The OmniOne DID consists of a JSON data format that includes an ID and a public key, and these data are stored in the blockchain, enabling DID Entity (or the DID owner) to easily ascertain whose claims are authentic when claiming its own identity.
 
-Following DID specifications, the DID document gathers the Decentralized Identifier and the public key corresponding to the DID. Once created, the DID document of each user as a whole is stored in the blockchain. 
+Following DID specifications, the DID document gathers the Decentralized Identifier and the public key corresponding to the DID. Once created, the DID document of each user as a whole is stored in the blockchain.
 
 User DID documents stored in the blockchain ledger cannot be tampered with and removed. While combining Blockchain and DID, OmniOne is a secure infrastructure that enables DID-based identification.
 
@@ -25,7 +25,7 @@ User DID documents stored in the blockchain ledger cannot be tampered with and r
 
 3. Secure storage of DID private keys and FIDO
 
-![img](https://lh3.googleusercontent.com/Hf3xDcxLRFZEGujG4Qlh_tMOcmAHdsafHHScKpdrvtX0icRTFmCC_dbSqEc-PnB_kgO0u2sXFsWChgZPp-akDkZ2cPU09mir9DU-cbWm5xZo_UypeBd6yY11QqEIDouyIQgBGw)
+![img](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/BC%2BFIDO.png)
 
 OmniOne provides a powerful security mechanism for devices when users use Online Service or Web Service.
 
@@ -41,7 +41,7 @@ Eventually, by combining FIDO and decentralized PKI (dPKI),  OmniOne implemented
 
 Source:https://www.w3.org/TR/verifiable-claims-data-model/
 
-A claim is a verifiable credential that uses DID while making assertion about the DID owner in OmniOne. The latter was developed in compliance with W3C Specifications (https://www.w3.org/TR/verifiable-claims-data-model/). Additionally, OmniOne designed a unique model based on assurance level and pricing policies of Verifiable Claims issued by Issuers. The Verifiable Claim (VC) corresponds to a proof of ID based on DID and owned by the user who can submit it when required. Once verified in the blockchain, the role of  VC becomes crucial as it works as the base of trust between participants in the ecosystem. 
+A claim is a verifiable credential that uses DID while making assertion about the DID owner in OmniOne. The latter was developed in compliance with W3C Specifications (https://www.w3.org/TR/verifiable-claims-data-model/). Additionally, OmniOne designed a unique model based on assurance level and pricing policies of Verifiable Claims issued by Issuers. The Verifiable Claim (VC) corresponds to a proof of ID based on DID and owned by the user who can submit it when required. Once verified in the blockchain, the role of  VC becomes crucial as it works as the base of trust between participants in the ecosystem.
 
 The OmniOne Token (OMN) will incentivize active contributors in the ecosystem. Thus, Issuers issuing VC (which owns User's data) that will be used by Service Providers will receive rewards for their contributions. While verifying that the VC is trustworthy, Service Providers will be able to verify the identity of their users at a lower cost without relying on a third-party thanks to the blockchain. In exchange of getting a trustworthy information enabling identification of the user, Service Providers will pay active contributors such as Issuers of VC through OMN Token.
 
@@ -58,7 +58,4 @@ With OmniOne, personal information are stored in the user's device an only hashe
 
 With the OMN Data Hub, personal information can be securely stored and exchanged, with the consent of users, as well as they can be recovered at any time even in case of device loss.
 
-![1561612399647](C:\Users\Alex\AppData\Roaming\Typora\typora-user-images\1561612399647.png)
-
-
-
+![1561612399647](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/datahub.png)

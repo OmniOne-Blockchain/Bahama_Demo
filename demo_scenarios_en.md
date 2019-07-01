@@ -24,7 +24,7 @@ Eliot, a tourist visiting Bahamas, submits his passport to the Bahamas Immigrati
 
 Upon arrival in Bahamas and by following instructions from Bahamas tour guides, Eliot will be able to install the OmniOne app and receive a digital ID card for visitors through the app. In addition, 10,000 OMN will be paid as reward for the issuance.
 
-![1561341022584](C:\Users\Alex\AppData\Roaming\Typora\typora-user-images\1561341022584.png)
+![vc](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/vc.png)
 
 Tour guides provide links of online malls, which are available to visitors.
 
@@ -40,15 +40,4 @@ OmniOne’s users check the information and amount of the other party in the app
 
 The store uses the relevant webpage to verify that the user has performed to the payment.
 
-
-
-#### Demo Information
-
-App download URL:
-
-Service Page URL:
-
-Service Page URL:
-
-Video :
-
+![Bahamas_QR_1](https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/Bahamas_QR_1.png)
