@@ -11,13 +11,13 @@ d. Admin Page URL : http://iw.whitehat.co.kr/omnionedemo/console/login
 e. Video : 
 
 # Try It Now
-1. download app from the URL : (a) https://drive.google.com/open?id=1kqqXAN706BCITDuJvDyGU5Quq3qLvbZP
-only android os supported
+1. Download the app from the URL : (a) https://drive.google.com/open?id=1kqqXAN706BCITDuJvDyGU5Quq3qLvbZP
+only Android os supported
 
-2. run the app and initialize app (setting bio verification, making did internally)
+2. Run the app and perform to its initialization. (setting bio verification, making did internally)
 
 3. You can use the below test account for issuing sample visitor card(Verifiable Claim) in your app.
-( You can get your own VC after add your own info in the admin page (d) http://iw.whitehat.co.kr/omnionedemo/console/login)
+( or You can get your own VC after adding your own infomation in the admin page (d) http://iw.whitehat.co.kr/omnionedemo/console/login)
 
 - First Name: Alice
 - Last Name: 123
@@ -25,18 +25,18 @@ only android os supported
 - E-mail: alice@alice.com
 - Sex: female
 
-4. go to online shopping mall page on the PC browser. (or you can use offline page)
+4. go to online shopping mall page on the PC browser. (or You can use offline page)
 (b) http://iw.whitehat.co.kr/omnionedemo (online)
 (c) https://github.com/OmniOne-Blockchain/Bahama_Demo/blob/master/img/Bahamas_QR_2.png (offline)
 
 
-5. In the PC browser select Login then you can see the QR code.
+5. In the PC browser please select "Login", then you can see the QR code.
 
-6. You can scan qr with your app and the Login process will be finished successfully.
+6. You can scan the QR code with your app and the Login process will be finished successfully.
 
-7. And you will select the item what you buy and then you can see the QR code.
+7. Then please select the item that you want to buy and you will be able to see the QR code.
 
-8. You can scan qr with your app and the buying process will be finished successfully.
+8. You can scan the QR code with your app. Once the QR code is scanned, your purchase will be successfully complete.
 
 
 
