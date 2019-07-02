@@ -1,6 +1,6 @@
 # Demo Information
 
-a. App download URL: https://drive.google.com/open?id=1kqqXAN706BCITDuJvDyGU5Quq3qLvbZP
+a. App download URL: https://iw.whitehat.co.kr/omnionedemo/app/omnione_android.apk
 
 b. Online Service Page URL: http://iw.whitehat.co.kr/omnionedemo
 
