@@ -1,6 +1,6 @@
 # Demo Information
 
-a. App download URL: https://drive.google.com/open?id=1Y_h-ive-aoyQYavgNUQyrWS7p7JFUO3oPo6gtk5iZtE
+a. App download URL:  https://iw.whitehat.co.kr/omnionedemo/app/omnione_android.apk
 
 b. Online Service Page URL: http://iw.whitehat.co.kr/omnionedemo
 
@@ -11,7 +11,7 @@ d. Admin Page URL : http://iw.whitehat.co.kr/omnionedemo/console/login
 e. Video : 
 
 # Try It Now
-1. Download the app from the URL : (a) https://drive.google.com/open?id=1Y_h-ive-aoyQYavgNUQyrWS7p7JFUO3oPo6gtk5iZtE
+1. Download the app from the URL : (a)  https://iw.whitehat.co.kr/omnionedemo/app/omnione_android.apk
 only Android os supported
 
 2. Run the app and perform to its initialization. (setting bio verification, making did internally)
